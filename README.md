@@ -1,16 +1,7 @@
 # ikchatbot_chat
 
-A new Flutter project.
+ - >  Developed and deployed a dynamic chatbot application using the Flutter package
+ IKChatboat, showcasing expertise in integrating conversational interfaces into mobile
+ applications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-07-04 at 8 35 31 PM](https://github.com/Nirmal-Bhuva/ikchatbot_chat/assets/91771820/5a614a69-52e5-4131-8c55-0635bc425808)
